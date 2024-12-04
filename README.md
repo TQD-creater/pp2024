@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Ta Quang Dieu 
+* Student Name: Ta Quang Dieu
 * Student ID: 22bi13084
 
